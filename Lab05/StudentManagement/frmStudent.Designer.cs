@@ -74,9 +74,10 @@
             this.label1.ForeColor = System.Drawing.Color.Blue;
             this.label1.Location = new System.Drawing.Point(517, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(63, 62);
+            this.label1.Size = new System.Drawing.Size(191, 62);
             this.label1.TabIndex = 1;
-            this.label1.Text = "cl";
+            this.label1.Text = "concac ";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // menuStrip1
             // 
@@ -85,7 +86,7 @@
             this.chứcNăngToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1211, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1211, 30);
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
