@@ -74,9 +74,9 @@
             this.label1.ForeColor = System.Drawing.Color.Blue;
             this.label1.Location = new System.Drawing.Point(446, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(423, 62);
+            this.label1.Size = new System.Drawing.Size(73, 62);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Quản Lý Sinh Viên";
+            this.label1.Text = "cc";
             // 
             // menuStrip1
             // 
@@ -85,7 +85,7 @@
             this.chứcNăngToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1211, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1211, 30);
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -94,7 +94,7 @@
             this.chứcNăngToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.thêmToolStripMenuItem});
             this.chứcNăngToolStripMenuItem.Name = "chứcNăngToolStripMenuItem";
-            this.chứcNăngToolStripMenuItem.Size = new System.Drawing.Size(96, 24);
+            this.chứcNăngToolStripMenuItem.Size = new System.Drawing.Size(96, 26);
             this.chứcNăngToolStripMenuItem.Text = "Chức Năng";
             // 
             // thêmToolStripMenuItem
