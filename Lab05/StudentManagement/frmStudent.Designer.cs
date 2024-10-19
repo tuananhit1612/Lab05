@@ -74,9 +74,9 @@
             this.label1.ForeColor = System.Drawing.Color.Blue;
             this.label1.Location = new System.Drawing.Point(446, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(73, 62);
+            this.label1.Size = new System.Drawing.Size(63, 62);
             this.label1.TabIndex = 1;
-            this.label1.Text = "cc";
+            this.label1.Text = "cl";
             // 
             // menuStrip1
             // 
